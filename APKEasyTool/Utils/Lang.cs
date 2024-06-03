@@ -64,7 +64,6 @@ namespace APKEasyTool
         public static string SEL_COM_DIR_DIAG;
         public static string SEL_EXT_DIR_DIAG;
         public static string SEL_ZIP_DIR_DIAG;
-        public static string SEL_AUTO_DIR_DIAG;
         public static string SEL_PK8_FILE_DIAG;
         public static string SEL_PEM_FILE_DIAG;
         public static string SEL_AAPT_FILE_DIAG;
@@ -319,7 +318,6 @@ namespace APKEasyTool
                 SEL_COM_DIR_DIAG = Localize("sel_com_dir_diag", "Select the folder to store compiled apk");
                 SEL_EXT_DIR_DIAG = Localize("sel_ext_dir_diag", "Select the folder to store extracted apk");
                 SEL_ZIP_DIR_DIAG = Localize("sel_zip_dir_diag", "Select the folder to store zipped apk");
-                SEL_AUTO_DIR_DIAG = Localize("sel_auto_dir_diag", "Select the folder to store auto-path tool files");
                 SEL_PK8_FILE_DIAG = Localize("sel_pk8_file_diag", "Select the .pk8 key file");
                 SEL_PEM_FILE_DIAG = Localize("sel_pem_file_diag", "Select the .pem key file");
                 SEL_KEY_FILE_DIAG = Localize("sel_key_file_diag", "Select the .jks or .keystore key file");
@@ -574,7 +572,6 @@ namespace APKEasyTool
                 main.changeComDir.Text = Localize("change_btn", main.changeComDir.Text);
                 main.changeExtDir.Text = Localize("change_btn", main.changeExtDir.Text);
                 main.changeZipDir.Text = Localize("change_btn", main.changeZipDir.Text);
-                main.changeAutoDir.Text = Localize("change_btn", main.changeAutoDir.Text);
 
                 //Other
                 main.label37.Text = Localize("other_lbl", main.label37.Text);

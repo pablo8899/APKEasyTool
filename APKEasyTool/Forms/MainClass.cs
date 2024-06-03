@@ -200,11 +200,6 @@ namespace APKEasyTool
                     Directory.CreateDirectory(Variables.GetPath() + "6-Smali");
                     main.smaliDir.Text = Variables.GetPath() + "6-Smali";
                 }
-                if (main.pathOfAuto.Text == "" || !Directory.Exists(main.pathOfAuto.Text))
-                {
-                    Directory.CreateDirectory(Variables.GetPath() + "AutoPatch Tool");
-                    main.pathOfAuto.Text = Variables.GetPath() + "AutoPatch Tool";
-                }
             }
             catch (Exception ex)
             {
@@ -343,11 +338,6 @@ namespace APKEasyTool
                     Process.Start("explorer.exe", main.smaliDir.Text);
                     Environment.Exit(0);
                 }
-                else if (Environment.GetCommandLineArgs()[1] == "AutoDir")
-                {
-                    Process.Start("explorer.exe", main.pathOfAuto.Text);
-                    Environment.Exit(0);
-                }
             }
         }
 
@@ -384,7 +374,6 @@ namespace APKEasyTool
                         main.pathOfCom.Text = info.PathCom;
                         main.pathOfExt.Text = info.PathExt;
                         main.pathOfZip.Text = info.PathZip;
-                        main.pathOfAuto.Text = info.PathAuto;
                         main.baksDir.Text = info.PathBaksmali;
                         main.smaliDir.Text = info.PathSmali;
                         main.pemFileTxtBox.Text = info.PathPem;
@@ -521,7 +510,6 @@ namespace APKEasyTool
                 info.PathCom = main.pathOfCom.Text;
                 info.PathExt = main.pathOfExt.Text;
                 info.PathZip = main.pathOfZip.Text;
-                info.PathAuto = main.pathOfAuto.Text;
                 info.PathBaksmali = main.baksDir.Text;
                 info.PathSmali = main.smaliDir.Text;
                 info.PathPem = main.pemFileTxtBox.Text;

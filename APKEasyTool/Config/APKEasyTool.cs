@@ -15,7 +15,6 @@
         public string PathExt { get; set; }
 
         public string PathZip { get; set; }
-        public string PathAuto { get; set; }
         public string PathBaksmali { get; set; }
 
         public string PathSmali { get; set; }

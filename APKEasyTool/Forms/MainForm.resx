@@ -4761,54 +4761,6 @@ naming of "resources", "res" or "framework". </value>
   <data name="tabPage2.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="changeAutoDir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="changeAutoDir.Location" type="System.Drawing.Point, System.Drawing">
-    <value>537, 418</value>
-  </data>
-  <data name="changeAutoDir.Size" type="System.Drawing.Size, System.Drawing">
-    <value>105, 23</value>
-  </data>
-  <data name="changeAutoDir.TabIndex" type="System.Int32, mscorlib">
-    <value>98</value>
-  </data>
-  <data name="changeAutoDir.Text" xml:space="preserve">
-    <value>Change ...</value>
-  </data>
-  <data name="&gt;&gt;changeAutoDir.Name" xml:space="preserve">
-    <value>changeAutoDir</value>
-  </data>
-  <data name="&gt;&gt;changeAutoDir.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;changeAutoDir.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;changeAutoDir.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="pathOfAuto.Location" type="System.Drawing.Point, System.Drawing">
-    <value>190, 419</value>
-  </data>
-  <data name="pathOfAuto.Size" type="System.Drawing.Size, System.Drawing">
-    <value>341, 22</value>
-  </data>
-  <data name="pathOfAuto.TabIndex" type="System.Int32, mscorlib">
-    <value>97</value>
-  </data>
-  <data name="&gt;&gt;pathOfAuto.Name" xml:space="preserve">
-    <value>pathOfAuto</value>
-  </data>
-  <data name="&gt;&gt;pathOfAuto.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pathOfAuto.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;pathOfAuto.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
   <data name="extJavaTxtBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>327, 186</value>
   </data>
@@ -4831,7 +4783,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;extJavaTxtBox.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>0</value>
   </data>
   <data name="pathOfZip.Location" type="System.Drawing.Point, System.Drawing">
     <value>190, 391</value>
@@ -4852,7 +4804,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pathOfZip.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>1</value>
   </data>
   <data name="pathOfExt.Location" type="System.Drawing.Point, System.Drawing">
     <value>190, 363</value>
@@ -4873,7 +4825,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pathOfExt.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>2</value>
   </data>
   <data name="pathOfCom.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 8.25pt</value>
@@ -4900,7 +4852,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pathOfCom.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>3</value>
   </data>
   <data name="pathOfDec.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 8.25pt</value>
@@ -4927,40 +4879,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pathOfDec.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="label19.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 8.25pt</value>
-  </data>
-  <data name="label19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 423</value>
-  </data>
-  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>162, 13</value>
-  </data>
-  <data name="label19.TabIndex" type="System.Int32, mscorlib">
-    <value>99</value>
-  </data>
-  <data name="label19.Text" xml:space="preserve">
-    <value>Auto-patch working directory:</value>
-  </data>
-  <data name="&gt;&gt;label19.Name" xml:space="preserve">
-    <value>label19</value>
-  </data>
-  <data name="&gt;&gt;label19.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>4</value>
   </data>
   <data name="tmpFolBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4987,7 +4906,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;tmpFolBtn.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>5</value>
   </data>
   <data name="useJaxaXmxChkBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5017,7 +4936,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;useJaxaXmxChkBox.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>6</value>
   </data>
   <data name="uninsBtn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>System</value>
@@ -5047,7 +4966,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;uninsBtn.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>7</value>
   </data>
   <data name="insBtn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>System</value>
@@ -5077,7 +4996,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;insBtn.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>8</value>
   </data>
   <data name="label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5107,7 +5026,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>9</value>
   </data>
   <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5137,7 +5056,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>10</value>
   </data>
   <data name="taskBarCheckBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5167,7 +5086,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;taskBarCheckBox.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>11</value>
   </data>
   <data name="label12.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5194,7 +5113,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>12</value>
   </data>
   <data name="langComboBox.Items" xml:space="preserve">
     <value>English (Default)</value>
@@ -5218,7 +5137,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;langComboBox.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>13</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5248,7 +5167,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>14</value>
   </data>
   <data name="label103.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5278,7 +5197,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label103.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>15</value>
   </data>
   <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5305,7 +5224,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>16</value>
   </data>
   <data name="resBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5332,7 +5251,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;resBtn.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>17</value>
   </data>
   <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
     <value>45, 500</value>
@@ -5353,7 +5272,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;panel5.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>18</value>
   </data>
   <data name="label37.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5386,7 +5305,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label37.ZOrder" xml:space="preserve">
-    <value>22</value>
+    <value>19</value>
   </data>
   <data name="useExtJava.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5416,7 +5335,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;useExtJava.ZOrder" xml:space="preserve">
-    <value>23</value>
+    <value>20</value>
   </data>
   <data name="selJavaBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5443,7 +5362,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;selJavaBtn.ZOrder" xml:space="preserve">
-    <value>24</value>
+    <value>21</value>
   </data>
   <data name="clrHisBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5470,7 +5389,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;clrHisBtn.ZOrder" xml:space="preserve">
-    <value>25</value>
+    <value>22</value>
   </data>
   <data name="disHisBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5500,7 +5419,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;disHisBox.ZOrder" xml:space="preserve">
-    <value>26</value>
+    <value>23</value>
   </data>
   <data name="downBtn.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
@@ -5524,7 +5443,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;downBtn.ZOrder" xml:space="preserve">
-    <value>27</value>
+    <value>24</value>
   </data>
   <data name="setupDirBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5551,7 +5470,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;setupDirBtn.ZOrder" xml:space="preserve">
-    <value>28</value>
+    <value>25</value>
   </data>
   <data name="restartBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5578,7 +5497,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;restartBtn.ZOrder" xml:space="preserve">
-    <value>29</value>
+    <value>26</value>
   </data>
   <data name="panel4.Location" type="System.Drawing.Point, System.Drawing">
     <value>45, 294</value>
@@ -5599,7 +5518,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;panel4.ZOrder" xml:space="preserve">
-    <value>30</value>
+    <value>27</value>
   </data>
   <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>46, 38</value>
@@ -5620,7 +5539,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
-    <value>31</value>
+    <value>28</value>
   </data>
   <data name="pictureBox7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5647,7 +5566,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pictureBox7.ZOrder" xml:space="preserve">
-    <value>32</value>
+    <value>29</value>
   </data>
   <data name="pictureBox6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5674,7 +5593,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
-    <value>33</value>
+    <value>30</value>
   </data>
   <data name="label78.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5707,7 +5626,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label78.ZOrder" xml:space="preserve">
-    <value>34</value>
+    <value>31</value>
   </data>
   <data name="label77.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5740,7 +5659,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label77.ZOrder" xml:space="preserve">
-    <value>35</value>
+    <value>32</value>
   </data>
   <data name="changeZipDir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5767,7 +5686,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;changeZipDir.ZOrder" xml:space="preserve">
-    <value>36</value>
+    <value>33</value>
   </data>
   <data name="label60.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5800,7 +5719,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label60.ZOrder" xml:space="preserve">
-    <value>37</value>
+    <value>34</value>
   </data>
   <data name="changeExtDir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -5827,7 +5746,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;changeExtDir.ZOrder" xml:space="preserve">
-    <value>38</value>
+    <value>35</value>
   </data>
   <data name="folderBtn.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
@@ -5851,7 +5770,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;folderBtn.ZOrder" xml:space="preserve">
-    <value>39</value>
+    <value>36</value>
   </data>
   <data name="label49.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5884,7 +5803,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label49.ZOrder" xml:space="preserve">
-    <value>40</value>
+    <value>37</value>
   </data>
   <data name="label40.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5914,7 +5833,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label40.ZOrder" xml:space="preserve">
-    <value>41</value>
+    <value>38</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5947,7 +5866,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>42</value>
+    <value>39</value>
   </data>
   <data name="winPosCheckBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5980,7 +5899,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;winPosCheckBox.ZOrder" xml:space="preserve">
-    <value>43</value>
+    <value>40</value>
   </data>
   <data name="apkToolComboBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>455, 77</value>
@@ -6004,7 +5923,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;apkToolComboBox.ZOrder" xml:space="preserve">
-    <value>44</value>
+    <value>41</value>
   </data>
   <data name="changeComDir.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 8.25pt</value>
@@ -6034,7 +5953,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;changeComDir.ZOrder" xml:space="preserve">
-    <value>45</value>
+    <value>42</value>
   </data>
   <data name="sevenzComUpDown.Location" type="System.Drawing.Point, System.Drawing">
     <value>556, 104</value>
@@ -6055,7 +5974,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;sevenzComUpDown.ZOrder" xml:space="preserve">
-    <value>46</value>
+    <value>43</value>
   </data>
   <data name="changeDecDir.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 8.25pt</value>
@@ -6085,7 +6004,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;changeDecDir.ZOrder" xml:space="preserve">
-    <value>47</value>
+    <value>44</value>
   </data>
   <data name="label21.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6115,7 +6034,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
-    <value>48</value>
+    <value>45</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6148,7 +6067,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>49</value>
+    <value>46</value>
   </data>
   <data name="label62.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6178,7 +6097,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;label62.ZOrder" xml:space="preserve">
-    <value>50</value>
+    <value>47</value>
   </data>
   <data name="javaHeapSizeNum.Location" type="System.Drawing.Point, System.Drawing">
     <value>543, 131</value>
@@ -6202,7 +6121,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;javaHeapSizeNum.ZOrder" xml:space="preserve">
-    <value>51</value>
+    <value>48</value>
   </data>
   <data name="chkUpdateChkBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6232,7 +6151,7 @@ naming of "resources", "res" or "framework". </value>
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;chkUpdateChkBox.ZOrder" xml:space="preserve">
-    <value>52</value>
+    <value>49</value>
   </data>
   <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 34</value>

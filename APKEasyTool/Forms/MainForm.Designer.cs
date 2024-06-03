@@ -134,6 +134,118 @@
             this.pictureBox15 = new System.Windows.Forms.PictureBox();
             this.openFwDirBtn = new System.Windows.Forms.Button();
             this.tabOpt = new System.Windows.Forms.TabPage();
+            this.oTab = new System.Windows.Forms.TabControl();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.extJavaTxtBox = new System.Windows.Forms.TextBox();
+            this.pathOfZip = new System.Windows.Forms.TextBox();
+            this.pathOfExt = new System.Windows.Forms.TextBox();
+            this.pathOfCom = new System.Windows.Forms.TextBox();
+            this.pathOfDec = new System.Windows.Forms.TextBox();
+            this.tmpFolBtn = new System.Windows.Forms.Button();
+            this.useJaxaXmxChkBox = new System.Windows.Forms.CheckBox();
+            this.uninsBtn = new System.Windows.Forms.Button();
+            this.insBtn = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.taskBarCheckBox = new System.Windows.Forms.CheckBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.langComboBox = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label103 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.resBtn = new System.Windows.Forms.Button();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.label37 = new System.Windows.Forms.Label();
+            this.useExtJava = new System.Windows.Forms.CheckBox();
+            this.selJavaBtn = new System.Windows.Forms.Button();
+            this.clrHisBtn = new System.Windows.Forms.Button();
+            this.disHisBox = new System.Windows.Forms.CheckBox();
+            this.downBtn = new System.Windows.Forms.Panel();
+            this.setupDirBtn = new System.Windows.Forms.Button();
+            this.restartBtn = new System.Windows.Forms.Button();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.label78 = new System.Windows.Forms.Label();
+            this.label77 = new System.Windows.Forms.Label();
+            this.changeZipDir = new System.Windows.Forms.Button();
+            this.label60 = new System.Windows.Forms.Label();
+            this.changeExtDir = new System.Windows.Forms.Button();
+            this.folderBtn = new System.Windows.Forms.Panel();
+            this.label49 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.winPosCheckBox = new System.Windows.Forms.CheckBox();
+            this.apkToolComboBox = new System.Windows.Forms.ComboBox();
+            this.changeComDir = new System.Windows.Forms.Button();
+            this.sevenzComUpDown = new System.Windows.Forms.NumericUpDown();
+            this.changeDecDir = new System.Windows.Forms.Button();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label62 = new System.Windows.Forms.Label();
+            this.javaHeapSizeNum = new System.Windows.Forms.NumericUpDown();
+            this.chkUpdateChkBox = new System.Windows.Forms.CheckBox();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.decForceManifestChkBox = new System.Windows.Forms.CheckBox();
+            this.setAaptPathBtn = new System.Windows.Forms.Button();
+            this.useAaptPathTxtBox = new System.Windows.Forms.TextBox();
+            this.useAaptPathChkBox = new System.Windows.Forms.CheckBox();
+            this.decOnlyMainClassesChkBox = new System.Windows.Forms.CheckBox();
+            this.decNoAssetsCheckBox = new System.Windows.Forms.CheckBox();
+            this.comNCcheckBox = new System.Windows.Forms.CheckBox();
+            this.chkBoxUseAapt2 = new System.Windows.Forms.CheckBox();
+            this.decFcheckBox = new System.Windows.Forms.CheckBox();
+            this.comFcheckBox = new System.Windows.Forms.CheckBox();
+            this.comCcheckBox = new System.Windows.Forms.CheckBox();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.label76 = new System.Windows.Forms.Label();
+            this.label63 = new System.Windows.Forms.Label();
+            this.comDcheckBox = new System.Windows.Forms.CheckBox();
+            this.decScheckBox = new System.Windows.Forms.CheckBox();
+            this.decBcheckBox = new System.Windows.Forms.CheckBox();
+            this.decRcheckBox = new System.Windows.Forms.CheckBox();
+            this.decKcheckBox = new System.Windows.Forms.CheckBox();
+            this.decMcheckBox = new System.Windows.Forms.CheckBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.label30 = new System.Windows.Forms.Label();
+            this.v3signComboBox = new System.Windows.Forms.ComboBox();
+            this.v4signComboBox = new System.Windows.Forms.ComboBox();
+            this.v2signComboBox = new System.Windows.Forms.ComboBox();
+            this.v4SignLbl = new System.Windows.Forms.Label();
+            this.v3SignLbl = new System.Windows.Forms.Label();
+            this.v2SignLbl = new System.Windows.Forms.Label();
+            this.overApkChecked = new System.Windows.Forms.CheckBox();
+            this.installApkChkBox = new System.Windows.Forms.CheckBox();
+            this.signApkCheckBox = new System.Windows.Forms.CheckBox();
+            this.label80 = new System.Windows.Forms.Label();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.jksPass = new System.Windows.Forms.TextBox();
+            this.jksFileTxtBox = new System.Windows.Forms.TextBox();
+            this.pemFileTxtBox = new System.Windows.Forms.TextBox();
+            this.pk8FileTxtBox = new System.Windows.Forms.TextBox();
+            this.label73 = new System.Windows.Forms.Label();
+            this.label72 = new System.Windows.Forms.Label();
+            this.selJksTxtBox = new System.Windows.Forms.Button();
+            this.label57 = new System.Windows.Forms.Label();
+            this.useJksCheckBox = new System.Windows.Forms.CheckBox();
+            this.label56 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.selPemTxtBox = new System.Windows.Forms.Button();
+            this.selPk8TxtBox = new System.Windows.Forms.Button();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
+            this.zipAfterSignChkBox = new System.Windows.Forms.CheckBox();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.label81 = new System.Windows.Forms.Label();
+            this.zipVcheckBox = new System.Windows.Forms.CheckBox();
+            this.zipFcheckBox = new System.Windows.Forms.CheckBox();
+            this.zipZcheckBox = new System.Windows.Forms.CheckBox();
+            this.zipPcheckBox = new System.Windows.Forms.CheckBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.tabAbt = new System.Windows.Forms.TabPage();
             this.label18 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
@@ -169,121 +281,6 @@
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabelImage = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabelText = new System.Windows.Forms.ToolStripStatusLabel();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.zipPcheckBox = new System.Windows.Forms.CheckBox();
-            this.zipZcheckBox = new System.Windows.Forms.CheckBox();
-            this.zipFcheckBox = new System.Windows.Forms.CheckBox();
-            this.zipVcheckBox = new System.Windows.Forms.CheckBox();
-            this.label81 = new System.Windows.Forms.Label();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.zipAfterSignChkBox = new System.Windows.Forms.CheckBox();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.selPk8TxtBox = new System.Windows.Forms.Button();
-            this.selPemTxtBox = new System.Windows.Forms.Button();
-            this.pk8FileTxtBox = new System.Windows.Forms.TextBox();
-            this.pemFileTxtBox = new System.Windows.Forms.TextBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label56 = new System.Windows.Forms.Label();
-            this.useJksCheckBox = new System.Windows.Forms.CheckBox();
-            this.label57 = new System.Windows.Forms.Label();
-            this.jksFileTxtBox = new System.Windows.Forms.TextBox();
-            this.selJksTxtBox = new System.Windows.Forms.Button();
-            this.label72 = new System.Windows.Forms.Label();
-            this.label73 = new System.Windows.Forms.Label();
-            this.jksPass = new System.Windows.Forms.TextBox();
-            this.label80 = new System.Windows.Forms.Label();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.signApkCheckBox = new System.Windows.Forms.CheckBox();
-            this.installApkChkBox = new System.Windows.Forms.CheckBox();
-            this.overApkChecked = new System.Windows.Forms.CheckBox();
-            this.v2SignLbl = new System.Windows.Forms.Label();
-            this.v3SignLbl = new System.Windows.Forms.Label();
-            this.v4SignLbl = new System.Windows.Forms.Label();
-            this.v2signComboBox = new System.Windows.Forms.ComboBox();
-            this.v4signComboBox = new System.Windows.Forms.ComboBox();
-            this.v3signComboBox = new System.Windows.Forms.ComboBox();
-            this.label30 = new System.Windows.Forms.Label();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.decMcheckBox = new System.Windows.Forms.CheckBox();
-            this.decKcheckBox = new System.Windows.Forms.CheckBox();
-            this.decRcheckBox = new System.Windows.Forms.CheckBox();
-            this.decBcheckBox = new System.Windows.Forms.CheckBox();
-            this.decScheckBox = new System.Windows.Forms.CheckBox();
-            this.comDcheckBox = new System.Windows.Forms.CheckBox();
-            this.label63 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.comCcheckBox = new System.Windows.Forms.CheckBox();
-            this.comFcheckBox = new System.Windows.Forms.CheckBox();
-            this.decFcheckBox = new System.Windows.Forms.CheckBox();
-            this.chkBoxUseAapt2 = new System.Windows.Forms.CheckBox();
-            this.comNCcheckBox = new System.Windows.Forms.CheckBox();
-            this.decNoAssetsCheckBox = new System.Windows.Forms.CheckBox();
-            this.decOnlyMainClassesChkBox = new System.Windows.Forms.CheckBox();
-            this.useAaptPathChkBox = new System.Windows.Forms.CheckBox();
-            this.useAaptPathTxtBox = new System.Windows.Forms.TextBox();
-            this.setAaptPathBtn = new System.Windows.Forms.Button();
-            this.decForceManifestChkBox = new System.Windows.Forms.CheckBox();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.chkUpdateChkBox = new System.Windows.Forms.CheckBox();
-            this.javaHeapSizeNum = new System.Windows.Forms.NumericUpDown();
-            this.label62 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.changeDecDir = new System.Windows.Forms.Button();
-            this.sevenzComUpDown = new System.Windows.Forms.NumericUpDown();
-            this.changeComDir = new System.Windows.Forms.Button();
-            this.apkToolComboBox = new System.Windows.Forms.ComboBox();
-            this.pathOfDec = new System.Windows.Forms.TextBox();
-            this.winPosCheckBox = new System.Windows.Forms.CheckBox();
-            this.pathOfCom = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.folderBtn = new System.Windows.Forms.Panel();
-            this.pathOfExt = new System.Windows.Forms.TextBox();
-            this.changeExtDir = new System.Windows.Forms.Button();
-            this.label60 = new System.Windows.Forms.Label();
-            this.pathOfZip = new System.Windows.Forms.TextBox();
-            this.changeZipDir = new System.Windows.Forms.Button();
-            this.label77 = new System.Windows.Forms.Label();
-            this.label78 = new System.Windows.Forms.Label();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.restartBtn = new System.Windows.Forms.Button();
-            this.setupDirBtn = new System.Windows.Forms.Button();
-            this.downBtn = new System.Windows.Forms.Panel();
-            this.disHisBox = new System.Windows.Forms.CheckBox();
-            this.clrHisBtn = new System.Windows.Forms.Button();
-            this.selJavaBtn = new System.Windows.Forms.Button();
-            this.extJavaTxtBox = new System.Windows.Forms.TextBox();
-            this.useExtJava = new System.Windows.Forms.CheckBox();
-            this.label37 = new System.Windows.Forms.Label();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.resBtn = new System.Windows.Forms.Button();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.label103 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.langComboBox = new System.Windows.Forms.ComboBox();
-            this.label12 = new System.Windows.Forms.Label();
-            this.taskBarCheckBox = new System.Windows.Forms.CheckBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label6 = new System.Windows.Forms.Label();
-            this.insBtn = new System.Windows.Forms.Button();
-            this.uninsBtn = new System.Windows.Forms.Button();
-            this.useJaxaXmxChkBox = new System.Windows.Forms.CheckBox();
-            this.tmpFolBtn = new System.Windows.Forms.Button();
-            this.label19 = new System.Windows.Forms.Label();
-            this.pathOfAuto = new System.Windows.Forms.TextBox();
-            this.changeAutoDir = new System.Windows.Forms.Button();
-            this.oTab = new System.Windows.Forms.TabControl();
             this.tMain.SuspendLayout();
             this.tabMain.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -298,6 +295,20 @@
             this.tabFw.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             this.tabOpt.SuspendLayout();
+            this.oTab.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sevenzComUpDown)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.javaHeapSizeNum)).BeginInit();
+            this.tabPage3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            this.tabPage5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            this.tabPage6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.tabAbt.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.softpediaPicBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
@@ -305,20 +316,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.statusStrip1.SuspendLayout();
-            this.tabPage6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            this.tabPage5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            this.tabPage3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            this.tabPage2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.javaHeapSizeNum)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.sevenzComUpDown)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            this.oTab.SuspendLayout();
             this.SuspendLayout();
             // 
             // labelMain1
@@ -1090,6 +1087,846 @@
             this.tabOpt.Name = "tabOpt";
             this.tabOpt.UseVisualStyleBackColor = true;
             // 
+            // oTab
+            // 
+            this.oTab.Controls.Add(this.tabPage2);
+            this.oTab.Controls.Add(this.tabPage3);
+            this.oTab.Controls.Add(this.tabPage5);
+            this.oTab.Controls.Add(this.tabPage6);
+            resources.ApplyResources(this.oTab, "oTab");
+            this.oTab.Name = "oTab";
+            this.oTab.SelectedIndex = 0;
+            this.oTab.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
+            // 
+            // tabPage2
+            // 
+            resources.ApplyResources(this.tabPage2, "tabPage2");
+            this.tabPage2.Controls.Add(this.extJavaTxtBox);
+            this.tabPage2.Controls.Add(this.pathOfZip);
+            this.tabPage2.Controls.Add(this.pathOfExt);
+            this.tabPage2.Controls.Add(this.pathOfCom);
+            this.tabPage2.Controls.Add(this.pathOfDec);
+            this.tabPage2.Controls.Add(this.tmpFolBtn);
+            this.tabPage2.Controls.Add(this.useJaxaXmxChkBox);
+            this.tabPage2.Controls.Add(this.uninsBtn);
+            this.tabPage2.Controls.Add(this.insBtn);
+            this.tabPage2.Controls.Add(this.label6);
+            this.tabPage2.Controls.Add(this.button1);
+            this.tabPage2.Controls.Add(this.taskBarCheckBox);
+            this.tabPage2.Controls.Add(this.label12);
+            this.tabPage2.Controls.Add(this.langComboBox);
+            this.tabPage2.Controls.Add(this.label2);
+            this.tabPage2.Controls.Add(this.label103);
+            this.tabPage2.Controls.Add(this.pictureBox2);
+            this.tabPage2.Controls.Add(this.resBtn);
+            this.tabPage2.Controls.Add(this.panel5);
+            this.tabPage2.Controls.Add(this.label37);
+            this.tabPage2.Controls.Add(this.useExtJava);
+            this.tabPage2.Controls.Add(this.selJavaBtn);
+            this.tabPage2.Controls.Add(this.clrHisBtn);
+            this.tabPage2.Controls.Add(this.disHisBox);
+            this.tabPage2.Controls.Add(this.downBtn);
+            this.tabPage2.Controls.Add(this.setupDirBtn);
+            this.tabPage2.Controls.Add(this.restartBtn);
+            this.tabPage2.Controls.Add(this.panel4);
+            this.tabPage2.Controls.Add(this.panel3);
+            this.tabPage2.Controls.Add(this.pictureBox7);
+            this.tabPage2.Controls.Add(this.pictureBox6);
+            this.tabPage2.Controls.Add(this.label78);
+            this.tabPage2.Controls.Add(this.label77);
+            this.tabPage2.Controls.Add(this.changeZipDir);
+            this.tabPage2.Controls.Add(this.label60);
+            this.tabPage2.Controls.Add(this.changeExtDir);
+            this.tabPage2.Controls.Add(this.folderBtn);
+            this.tabPage2.Controls.Add(this.label49);
+            this.tabPage2.Controls.Add(this.label40);
+            this.tabPage2.Controls.Add(this.label1);
+            this.tabPage2.Controls.Add(this.winPosCheckBox);
+            this.tabPage2.Controls.Add(this.apkToolComboBox);
+            this.tabPage2.Controls.Add(this.changeComDir);
+            this.tabPage2.Controls.Add(this.sevenzComUpDown);
+            this.tabPage2.Controls.Add(this.changeDecDir);
+            this.tabPage2.Controls.Add(this.label21);
+            this.tabPage2.Controls.Add(this.label3);
+            this.tabPage2.Controls.Add(this.label62);
+            this.tabPage2.Controls.Add(this.javaHeapSizeNum);
+            this.tabPage2.Controls.Add(this.chkUpdateChkBox);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // extJavaTxtBox
+            // 
+            resources.ApplyResources(this.extJavaTxtBox, "extJavaTxtBox");
+            this.extJavaTxtBox.Name = "extJavaTxtBox";
+            // 
+            // pathOfZip
+            // 
+            resources.ApplyResources(this.pathOfZip, "pathOfZip");
+            this.pathOfZip.Name = "pathOfZip";
+            // 
+            // pathOfExt
+            // 
+            resources.ApplyResources(this.pathOfExt, "pathOfExt");
+            this.pathOfExt.Name = "pathOfExt";
+            // 
+            // pathOfCom
+            // 
+            resources.ApplyResources(this.pathOfCom, "pathOfCom");
+            this.pathOfCom.Name = "pathOfCom";
+            // 
+            // pathOfDec
+            // 
+            resources.ApplyResources(this.pathOfDec, "pathOfDec");
+            this.pathOfDec.Name = "pathOfDec";
+            // 
+            // tmpFolBtn
+            // 
+            resources.ApplyResources(this.tmpFolBtn, "tmpFolBtn");
+            this.tmpFolBtn.Name = "tmpFolBtn";
+            this.tmpFolBtn.UseVisualStyleBackColor = true;
+            // 
+            // useJaxaXmxChkBox
+            // 
+            resources.ApplyResources(this.useJaxaXmxChkBox, "useJaxaXmxChkBox");
+            this.useJaxaXmxChkBox.Name = "useJaxaXmxChkBox";
+            this.useJaxaXmxChkBox.UseVisualStyleBackColor = true;
+            // 
+            // uninsBtn
+            // 
+            resources.ApplyResources(this.uninsBtn, "uninsBtn");
+            this.uninsBtn.Name = "uninsBtn";
+            this.uninsBtn.UseVisualStyleBackColor = true;
+            // 
+            // insBtn
+            // 
+            resources.ApplyResources(this.insBtn, "insBtn");
+            this.insBtn.Name = "insBtn";
+            this.insBtn.UseVisualStyleBackColor = true;
+            // 
+            // label6
+            // 
+            resources.ApplyResources(this.label6, "label6");
+            this.label6.Name = "label6";
+            // 
+            // button1
+            // 
+            resources.ApplyResources(this.button1, "button1");
+            this.button1.Name = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // taskBarCheckBox
+            // 
+            resources.ApplyResources(this.taskBarCheckBox, "taskBarCheckBox");
+            this.taskBarCheckBox.Checked = true;
+            this.taskBarCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.taskBarCheckBox.Name = "taskBarCheckBox";
+            this.taskBarCheckBox.UseVisualStyleBackColor = true;
+            // 
+            // label12
+            // 
+            resources.ApplyResources(this.label12, "label12");
+            this.label12.Name = "label12";
+            // 
+            // langComboBox
+            // 
+            this.langComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.langComboBox.DropDownWidth = 200;
+            this.langComboBox.FormattingEnabled = true;
+            this.langComboBox.Items.AddRange(new object[] {
+            resources.GetString("langComboBox.Items")});
+            resources.ApplyResources(this.langComboBox, "langComboBox");
+            this.langComboBox.Name = "langComboBox";
+            this.langComboBox.SelectedValueChanged += new System.EventHandler(this.langComboBox_SelectedValueChanged);
+            // 
+            // label2
+            // 
+            resources.ApplyResources(this.label2, "label2");
+            this.label2.Name = "label2";
+            // 
+            // label103
+            // 
+            resources.ApplyResources(this.label103, "label103");
+            this.label103.Name = "label103";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::APKEasyTool.Properties.Resources.settings_grey_192x192;
+            resources.ApplyResources(this.pictureBox2, "pictureBox2");
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.TabStop = false;
+            // 
+            // resBtn
+            // 
+            resources.ApplyResources(this.resBtn, "resBtn");
+            this.resBtn.Name = "resBtn";
+            this.resBtn.UseVisualStyleBackColor = true;
+            this.resBtn.Click += new System.EventHandler(this.resBtn_Click);
+            // 
+            // panel5
+            // 
+            this.panel5.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel5, "panel5");
+            this.panel5.Name = "panel5";
+            // 
+            // label37
+            // 
+            resources.ApplyResources(this.label37, "label37");
+            this.label37.Name = "label37";
+            // 
+            // useExtJava
+            // 
+            resources.ApplyResources(this.useExtJava, "useExtJava");
+            this.useExtJava.Name = "useExtJava";
+            this.useExtJava.UseVisualStyleBackColor = true;
+            // 
+            // selJavaBtn
+            // 
+            resources.ApplyResources(this.selJavaBtn, "selJavaBtn");
+            this.selJavaBtn.Name = "selJavaBtn";
+            this.selJavaBtn.UseVisualStyleBackColor = true;
+            // 
+            // clrHisBtn
+            // 
+            resources.ApplyResources(this.clrHisBtn, "clrHisBtn");
+            this.clrHisBtn.Name = "clrHisBtn";
+            this.clrHisBtn.UseVisualStyleBackColor = true;
+            this.clrHisBtn.Click += new System.EventHandler(this.clrHisBtn_Click);
+            // 
+            // disHisBox
+            // 
+            resources.ApplyResources(this.disHisBox, "disHisBox");
+            this.disHisBox.Name = "disHisBox";
+            this.disHisBox.UseVisualStyleBackColor = true;
+            // 
+            // downBtn
+            // 
+            this.downBtn.BackColor = System.Drawing.Color.Gainsboro;
+            this.downBtn.BackgroundImage = global::APKEasyTool.Properties.Resources.arrow_down_2_50;
+            resources.ApplyResources(this.downBtn, "downBtn");
+            this.downBtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.downBtn.Name = "downBtn";
+            // 
+            // setupDirBtn
+            // 
+            resources.ApplyResources(this.setupDirBtn, "setupDirBtn");
+            this.setupDirBtn.Name = "setupDirBtn";
+            this.setupDirBtn.UseVisualStyleBackColor = true;
+            // 
+            // restartBtn
+            // 
+            resources.ApplyResources(this.restartBtn, "restartBtn");
+            this.restartBtn.Name = "restartBtn";
+            this.restartBtn.UseVisualStyleBackColor = true;
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel4, "panel4");
+            this.panel4.Name = "panel4";
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel3, "panel3");
+            this.panel3.Name = "panel3";
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = global::APKEasyTool.Properties.Resources.imageres_3;
+            resources.ApplyResources(this.pictureBox7, "pictureBox7");
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::APKEasyTool.Properties.Resources.aeticon;
+            resources.ApplyResources(this.pictureBox6, "pictureBox6");
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.TabStop = false;
+            // 
+            // label78
+            // 
+            resources.ApplyResources(this.label78, "label78");
+            this.label78.Name = "label78";
+            // 
+            // label77
+            // 
+            resources.ApplyResources(this.label77, "label77");
+            this.label77.Name = "label77";
+            // 
+            // changeZipDir
+            // 
+            resources.ApplyResources(this.changeZipDir, "changeZipDir");
+            this.changeZipDir.Name = "changeZipDir";
+            this.changeZipDir.UseVisualStyleBackColor = true;
+            // 
+            // label60
+            // 
+            resources.ApplyResources(this.label60, "label60");
+            this.label60.Name = "label60";
+            // 
+            // changeExtDir
+            // 
+            resources.ApplyResources(this.changeExtDir, "changeExtDir");
+            this.changeExtDir.Name = "changeExtDir";
+            this.changeExtDir.UseVisualStyleBackColor = true;
+            // 
+            // folderBtn
+            // 
+            this.folderBtn.BackColor = System.Drawing.Color.Gainsboro;
+            this.folderBtn.BackgroundImage = global::APKEasyTool.Properties.Resources.imageres_3;
+            resources.ApplyResources(this.folderBtn, "folderBtn");
+            this.folderBtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.folderBtn.Name = "folderBtn";
+            // 
+            // label49
+            // 
+            resources.ApplyResources(this.label49, "label49");
+            this.label49.Name = "label49";
+            // 
+            // label40
+            // 
+            resources.ApplyResources(this.label40, "label40");
+            this.label40.ForeColor = System.Drawing.Color.Gray;
+            this.label40.Name = "label40";
+            // 
+            // label1
+            // 
+            resources.ApplyResources(this.label1, "label1");
+            this.label1.Name = "label1";
+            // 
+            // winPosCheckBox
+            // 
+            resources.ApplyResources(this.winPosCheckBox, "winPosCheckBox");
+            this.winPosCheckBox.Name = "winPosCheckBox";
+            this.toolTip1.SetToolTip(this.winPosCheckBox, resources.GetString("winPosCheckBox.ToolTip"));
+            this.winPosCheckBox.UseVisualStyleBackColor = true;
+            // 
+            // apkToolComboBox
+            // 
+            this.apkToolComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.apkToolComboBox.DropDownWidth = 200;
+            this.apkToolComboBox.FormattingEnabled = true;
+            resources.ApplyResources(this.apkToolComboBox, "apkToolComboBox");
+            this.apkToolComboBox.Name = "apkToolComboBox";
+            this.toolTip1.SetToolTip(this.apkToolComboBox, resources.GetString("apkToolComboBox.ToolTip"));
+            this.apkToolComboBox.SelectedValueChanged += new System.EventHandler(this.apkToolComboBox_SelectedValueChanged_1);
+            // 
+            // changeComDir
+            // 
+            resources.ApplyResources(this.changeComDir, "changeComDir");
+            this.changeComDir.Name = "changeComDir";
+            this.changeComDir.UseVisualStyleBackColor = true;
+            // 
+            // sevenzComUpDown
+            // 
+            resources.ApplyResources(this.sevenzComUpDown, "sevenzComUpDown");
+            this.sevenzComUpDown.Maximum = new decimal(new int[] {
+            9,
+            0,
+            0,
+            0});
+            this.sevenzComUpDown.Name = "sevenzComUpDown";
+            this.sevenzComUpDown.Value = new decimal(new int[] {
+            9,
+            0,
+            0,
+            0});
+            // 
+            // changeDecDir
+            // 
+            resources.ApplyResources(this.changeDecDir, "changeDecDir");
+            this.changeDecDir.Name = "changeDecDir";
+            this.changeDecDir.UseVisualStyleBackColor = true;
+            // 
+            // label21
+            // 
+            resources.ApplyResources(this.label21, "label21");
+            this.label21.Name = "label21";
+            // 
+            // label3
+            // 
+            resources.ApplyResources(this.label3, "label3");
+            this.label3.Name = "label3";
+            // 
+            // label62
+            // 
+            resources.ApplyResources(this.label62, "label62");
+            this.label62.Name = "label62";
+            // 
+            // javaHeapSizeNum
+            // 
+            resources.ApplyResources(this.javaHeapSizeNum, "javaHeapSizeNum");
+            this.javaHeapSizeNum.Maximum = new decimal(new int[] {
+            999999,
+            0,
+            0,
+            0});
+            this.javaHeapSizeNum.Minimum = new decimal(new int[] {
+            64,
+            0,
+            0,
+            0});
+            this.javaHeapSizeNum.Name = "javaHeapSizeNum";
+            this.toolTip1.SetToolTip(this.javaHeapSizeNum, resources.GetString("javaHeapSizeNum.ToolTip"));
+            this.javaHeapSizeNum.Value = new decimal(new int[] {
+            1024,
+            0,
+            0,
+            0});
+            // 
+            // chkUpdateChkBox
+            // 
+            resources.ApplyResources(this.chkUpdateChkBox, "chkUpdateChkBox");
+            this.chkUpdateChkBox.Name = "chkUpdateChkBox";
+            this.chkUpdateChkBox.UseVisualStyleBackColor = true;
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.BackColor = System.Drawing.Color.White;
+            this.tabPage3.Controls.Add(this.decForceManifestChkBox);
+            this.tabPage3.Controls.Add(this.setAaptPathBtn);
+            this.tabPage3.Controls.Add(this.useAaptPathTxtBox);
+            this.tabPage3.Controls.Add(this.useAaptPathChkBox);
+            this.tabPage3.Controls.Add(this.decOnlyMainClassesChkBox);
+            this.tabPage3.Controls.Add(this.decNoAssetsCheckBox);
+            this.tabPage3.Controls.Add(this.comNCcheckBox);
+            this.tabPage3.Controls.Add(this.chkBoxUseAapt2);
+            this.tabPage3.Controls.Add(this.decFcheckBox);
+            this.tabPage3.Controls.Add(this.comFcheckBox);
+            this.tabPage3.Controls.Add(this.comCcheckBox);
+            this.tabPage3.Controls.Add(this.panel7);
+            this.tabPage3.Controls.Add(this.panel6);
+            this.tabPage3.Controls.Add(this.label76);
+            this.tabPage3.Controls.Add(this.label63);
+            this.tabPage3.Controls.Add(this.comDcheckBox);
+            this.tabPage3.Controls.Add(this.decScheckBox);
+            this.tabPage3.Controls.Add(this.decBcheckBox);
+            this.tabPage3.Controls.Add(this.decRcheckBox);
+            this.tabPage3.Controls.Add(this.decKcheckBox);
+            this.tabPage3.Controls.Add(this.decMcheckBox);
+            this.tabPage3.Controls.Add(this.pictureBox5);
+            this.tabPage3.Controls.Add(this.pictureBox4);
+            resources.ApplyResources(this.tabPage3, "tabPage3");
+            this.tabPage3.Name = "tabPage3";
+            // 
+            // decForceManifestChkBox
+            // 
+            resources.ApplyResources(this.decForceManifestChkBox, "decForceManifestChkBox");
+            this.decForceManifestChkBox.Name = "decForceManifestChkBox";
+            this.toolTip1.SetToolTip(this.decForceManifestChkBox, resources.GetString("decForceManifestChkBox.ToolTip"));
+            this.decForceManifestChkBox.UseVisualStyleBackColor = true;
+            // 
+            // setAaptPathBtn
+            // 
+            resources.ApplyResources(this.setAaptPathBtn, "setAaptPathBtn");
+            this.setAaptPathBtn.Name = "setAaptPathBtn";
+            this.setAaptPathBtn.UseVisualStyleBackColor = true;
+            // 
+            // useAaptPathTxtBox
+            // 
+            resources.ApplyResources(this.useAaptPathTxtBox, "useAaptPathTxtBox");
+            this.useAaptPathTxtBox.Name = "useAaptPathTxtBox";
+            // 
+            // useAaptPathChkBox
+            // 
+            resources.ApplyResources(this.useAaptPathChkBox, "useAaptPathChkBox");
+            this.useAaptPathChkBox.Name = "useAaptPathChkBox";
+            this.useAaptPathChkBox.UseVisualStyleBackColor = true;
+            // 
+            // decOnlyMainClassesChkBox
+            // 
+            resources.ApplyResources(this.decOnlyMainClassesChkBox, "decOnlyMainClassesChkBox");
+            this.decOnlyMainClassesChkBox.Checked = true;
+            this.decOnlyMainClassesChkBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.decOnlyMainClassesChkBox.Name = "decOnlyMainClassesChkBox";
+            this.decOnlyMainClassesChkBox.UseVisualStyleBackColor = true;
+            // 
+            // decNoAssetsCheckBox
+            // 
+            resources.ApplyResources(this.decNoAssetsCheckBox, "decNoAssetsCheckBox");
+            this.decNoAssetsCheckBox.Name = "decNoAssetsCheckBox";
+            this.decNoAssetsCheckBox.UseVisualStyleBackColor = true;
+            // 
+            // comNCcheckBox
+            // 
+            resources.ApplyResources(this.comNCcheckBox, "comNCcheckBox");
+            this.comNCcheckBox.Name = "comNCcheckBox";
+            this.toolTip1.SetToolTip(this.comNCcheckBox, resources.GetString("comNCcheckBox.ToolTip"));
+            this.comNCcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // chkBoxUseAapt2
+            // 
+            resources.ApplyResources(this.chkBoxUseAapt2, "chkBoxUseAapt2");
+            this.chkBoxUseAapt2.Checked = true;
+            this.chkBoxUseAapt2.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkBoxUseAapt2.Name = "chkBoxUseAapt2";
+            this.toolTip1.SetToolTip(this.chkBoxUseAapt2, resources.GetString("chkBoxUseAapt2.ToolTip"));
+            this.chkBoxUseAapt2.UseVisualStyleBackColor = true;
+            // 
+            // decFcheckBox
+            // 
+            resources.ApplyResources(this.decFcheckBox, "decFcheckBox");
+            this.decFcheckBox.Checked = true;
+            this.decFcheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.decFcheckBox.Name = "decFcheckBox";
+            this.toolTip1.SetToolTip(this.decFcheckBox, resources.GetString("decFcheckBox.ToolTip"));
+            this.decFcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // comFcheckBox
+            // 
+            resources.ApplyResources(this.comFcheckBox, "comFcheckBox");
+            this.comFcheckBox.Checked = true;
+            this.comFcheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.comFcheckBox.Name = "comFcheckBox";
+            this.toolTip1.SetToolTip(this.comFcheckBox, resources.GetString("comFcheckBox.ToolTip"));
+            this.comFcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // comCcheckBox
+            // 
+            resources.ApplyResources(this.comCcheckBox, "comCcheckBox");
+            this.comCcheckBox.Name = "comCcheckBox";
+            this.toolTip1.SetToolTip(this.comCcheckBox, resources.GetString("comCcheckBox.ToolTip"));
+            this.comCcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // panel7
+            // 
+            this.panel7.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel7, "panel7");
+            this.panel7.Name = "panel7";
+            // 
+            // panel6
+            // 
+            this.panel6.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel6, "panel6");
+            this.panel6.Name = "panel6";
+            // 
+            // label76
+            // 
+            resources.ApplyResources(this.label76, "label76");
+            this.label76.Name = "label76";
+            // 
+            // label63
+            // 
+            resources.ApplyResources(this.label63, "label63");
+            this.label63.Name = "label63";
+            // 
+            // comDcheckBox
+            // 
+            resources.ApplyResources(this.comDcheckBox, "comDcheckBox");
+            this.comDcheckBox.Name = "comDcheckBox";
+            this.toolTip1.SetToolTip(this.comDcheckBox, resources.GetString("comDcheckBox.ToolTip"));
+            this.comDcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // decScheckBox
+            // 
+            resources.ApplyResources(this.decScheckBox, "decScheckBox");
+            this.decScheckBox.Name = "decScheckBox";
+            this.toolTip1.SetToolTip(this.decScheckBox, resources.GetString("decScheckBox.ToolTip"));
+            this.decScheckBox.UseVisualStyleBackColor = true;
+            // 
+            // decBcheckBox
+            // 
+            resources.ApplyResources(this.decBcheckBox, "decBcheckBox");
+            this.decBcheckBox.Name = "decBcheckBox";
+            this.toolTip1.SetToolTip(this.decBcheckBox, resources.GetString("decBcheckBox.ToolTip"));
+            this.decBcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // decRcheckBox
+            // 
+            resources.ApplyResources(this.decRcheckBox, "decRcheckBox");
+            this.decRcheckBox.Name = "decRcheckBox";
+            this.toolTip1.SetToolTip(this.decRcheckBox, resources.GetString("decRcheckBox.ToolTip"));
+            this.decRcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // decKcheckBox
+            // 
+            resources.ApplyResources(this.decKcheckBox, "decKcheckBox");
+            this.decKcheckBox.Name = "decKcheckBox";
+            this.toolTip1.SetToolTip(this.decKcheckBox, resources.GetString("decKcheckBox.ToolTip"));
+            this.decKcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // decMcheckBox
+            // 
+            resources.ApplyResources(this.decMcheckBox, "decMcheckBox");
+            this.decMcheckBox.Name = "decMcheckBox";
+            this.toolTip1.SetToolTip(this.decMcheckBox, resources.GetString("decMcheckBox.ToolTip"));
+            this.decMcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::APKEasyTool.Properties.Resources.comsmall;
+            resources.ApplyResources(this.pictureBox5, "pictureBox5");
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::APKEasyTool.Properties.Resources.decsmall;
+            resources.ApplyResources(this.pictureBox4, "pictureBox4");
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.TabStop = false;
+            // 
+            // tabPage5
+            // 
+            this.tabPage5.Controls.Add(this.label30);
+            this.tabPage5.Controls.Add(this.v3signComboBox);
+            this.tabPage5.Controls.Add(this.v4signComboBox);
+            this.tabPage5.Controls.Add(this.v2signComboBox);
+            this.tabPage5.Controls.Add(this.v4SignLbl);
+            this.tabPage5.Controls.Add(this.v3SignLbl);
+            this.tabPage5.Controls.Add(this.v2SignLbl);
+            this.tabPage5.Controls.Add(this.overApkChecked);
+            this.tabPage5.Controls.Add(this.installApkChkBox);
+            this.tabPage5.Controls.Add(this.signApkCheckBox);
+            this.tabPage5.Controls.Add(this.label80);
+            this.tabPage5.Controls.Add(this.panel8);
+            this.tabPage5.Controls.Add(this.jksPass);
+            this.tabPage5.Controls.Add(this.jksFileTxtBox);
+            this.tabPage5.Controls.Add(this.pemFileTxtBox);
+            this.tabPage5.Controls.Add(this.pk8FileTxtBox);
+            this.tabPage5.Controls.Add(this.label73);
+            this.tabPage5.Controls.Add(this.label72);
+            this.tabPage5.Controls.Add(this.selJksTxtBox);
+            this.tabPage5.Controls.Add(this.label57);
+            this.tabPage5.Controls.Add(this.useJksCheckBox);
+            this.tabPage5.Controls.Add(this.label56);
+            this.tabPage5.Controls.Add(this.label10);
+            this.tabPage5.Controls.Add(this.selPemTxtBox);
+            this.tabPage5.Controls.Add(this.selPk8TxtBox);
+            this.tabPage5.Controls.Add(this.pictureBox9);
+            resources.ApplyResources(this.tabPage5, "tabPage5");
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.UseVisualStyleBackColor = true;
+            // 
+            // label30
+            // 
+            resources.ApplyResources(this.label30, "label30");
+            this.label30.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.label30.Name = "label30";
+            // 
+            // v3signComboBox
+            // 
+            this.v3signComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.v3signComboBox.FormattingEnabled = true;
+            this.v3signComboBox.Items.AddRange(new object[] {
+            resources.GetString("v3signComboBox.Items"),
+            resources.GetString("v3signComboBox.Items1"),
+            resources.GetString("v3signComboBox.Items2")});
+            resources.ApplyResources(this.v3signComboBox, "v3signComboBox");
+            this.v3signComboBox.Name = "v3signComboBox";
+            // 
+            // v4signComboBox
+            // 
+            this.v4signComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.v4signComboBox.FormattingEnabled = true;
+            this.v4signComboBox.Items.AddRange(new object[] {
+            resources.GetString("v4signComboBox.Items"),
+            resources.GetString("v4signComboBox.Items1"),
+            resources.GetString("v4signComboBox.Items2"),
+            resources.GetString("v4signComboBox.Items3")});
+            resources.ApplyResources(this.v4signComboBox, "v4signComboBox");
+            this.v4signComboBox.Name = "v4signComboBox";
+            // 
+            // v2signComboBox
+            // 
+            this.v2signComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.v2signComboBox.FormattingEnabled = true;
+            this.v2signComboBox.Items.AddRange(new object[] {
+            resources.GetString("v2signComboBox.Items"),
+            resources.GetString("v2signComboBox.Items1"),
+            resources.GetString("v2signComboBox.Items2")});
+            resources.ApplyResources(this.v2signComboBox, "v2signComboBox");
+            this.v2signComboBox.Name = "v2signComboBox";
+            // 
+            // v4SignLbl
+            // 
+            resources.ApplyResources(this.v4SignLbl, "v4SignLbl");
+            this.v4SignLbl.Name = "v4SignLbl";
+            // 
+            // v3SignLbl
+            // 
+            resources.ApplyResources(this.v3SignLbl, "v3SignLbl");
+            this.v3SignLbl.Name = "v3SignLbl";
+            // 
+            // v2SignLbl
+            // 
+            resources.ApplyResources(this.v2SignLbl, "v2SignLbl");
+            this.v2SignLbl.Name = "v2SignLbl";
+            // 
+            // overApkChecked
+            // 
+            resources.ApplyResources(this.overApkChecked, "overApkChecked");
+            this.overApkChecked.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.overApkChecked.Name = "overApkChecked";
+            this.overApkChecked.UseVisualStyleBackColor = true;
+            // 
+            // installApkChkBox
+            // 
+            resources.ApplyResources(this.installApkChkBox, "installApkChkBox");
+            this.installApkChkBox.Name = "installApkChkBox";
+            this.installApkChkBox.UseVisualStyleBackColor = true;
+            // 
+            // signApkCheckBox
+            // 
+            resources.ApplyResources(this.signApkCheckBox, "signApkCheckBox");
+            this.signApkCheckBox.Checked = true;
+            this.signApkCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.signApkCheckBox.Name = "signApkCheckBox";
+            // 
+            // label80
+            // 
+            resources.ApplyResources(this.label80, "label80");
+            this.label80.Name = "label80";
+            // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel8, "panel8");
+            this.panel8.Name = "panel8";
+            // 
+            // jksPass
+            // 
+            resources.ApplyResources(this.jksPass, "jksPass");
+            this.jksPass.Name = "jksPass";
+            // 
+            // jksFileTxtBox
+            // 
+            resources.ApplyResources(this.jksFileTxtBox, "jksFileTxtBox");
+            this.jksFileTxtBox.Name = "jksFileTxtBox";
+            // 
+            // pemFileTxtBox
+            // 
+            resources.ApplyResources(this.pemFileTxtBox, "pemFileTxtBox");
+            this.pemFileTxtBox.Name = "pemFileTxtBox";
+            // 
+            // pk8FileTxtBox
+            // 
+            resources.ApplyResources(this.pk8FileTxtBox, "pk8FileTxtBox");
+            this.pk8FileTxtBox.Name = "pk8FileTxtBox";
+            // 
+            // label73
+            // 
+            resources.ApplyResources(this.label73, "label73");
+            this.label73.Name = "label73";
+            // 
+            // label72
+            // 
+            resources.ApplyResources(this.label72, "label72");
+            this.label72.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label72.Name = "label72";
+            // 
+            // selJksTxtBox
+            // 
+            resources.ApplyResources(this.selJksTxtBox, "selJksTxtBox");
+            this.selJksTxtBox.Name = "selJksTxtBox";
+            this.selJksTxtBox.UseVisualStyleBackColor = true;
+            // 
+            // label57
+            // 
+            resources.ApplyResources(this.label57, "label57");
+            this.label57.Name = "label57";
+            // 
+            // useJksCheckBox
+            // 
+            resources.ApplyResources(this.useJksCheckBox, "useJksCheckBox");
+            this.useJksCheckBox.Name = "useJksCheckBox";
+            this.useJksCheckBox.UseVisualStyleBackColor = true;
+            // 
+            // label56
+            // 
+            resources.ApplyResources(this.label56, "label56");
+            this.label56.Name = "label56";
+            // 
+            // label10
+            // 
+            resources.ApplyResources(this.label10, "label10");
+            this.label10.Name = "label10";
+            // 
+            // selPemTxtBox
+            // 
+            resources.ApplyResources(this.selPemTxtBox, "selPemTxtBox");
+            this.selPemTxtBox.Name = "selPemTxtBox";
+            this.selPemTxtBox.UseVisualStyleBackColor = true;
+            // 
+            // selPk8TxtBox
+            // 
+            resources.ApplyResources(this.selPk8TxtBox, "selPk8TxtBox");
+            this.selPk8TxtBox.Name = "selPk8TxtBox";
+            this.selPk8TxtBox.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox9
+            // 
+            resources.ApplyResources(this.pictureBox9, "pictureBox9");
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.TabStop = false;
+            // 
+            // tabPage6
+            // 
+            this.tabPage6.Controls.Add(this.zipAfterSignChkBox);
+            this.tabPage6.Controls.Add(this.panel9);
+            this.tabPage6.Controls.Add(this.label81);
+            this.tabPage6.Controls.Add(this.zipVcheckBox);
+            this.tabPage6.Controls.Add(this.zipFcheckBox);
+            this.tabPage6.Controls.Add(this.zipZcheckBox);
+            this.tabPage6.Controls.Add(this.zipPcheckBox);
+            this.tabPage6.Controls.Add(this.pictureBox10);
+            resources.ApplyResources(this.tabPage6, "tabPage6");
+            this.tabPage6.Name = "tabPage6";
+            this.tabPage6.UseVisualStyleBackColor = true;
+            // 
+            // zipAfterSignChkBox
+            // 
+            resources.ApplyResources(this.zipAfterSignChkBox, "zipAfterSignChkBox");
+            this.zipAfterSignChkBox.Checked = true;
+            this.zipAfterSignChkBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.zipAfterSignChkBox.Name = "zipAfterSignChkBox";
+            this.zipAfterSignChkBox.UseVisualStyleBackColor = true;
+            // 
+            // panel9
+            // 
+            this.panel9.BackColor = System.Drawing.Color.DarkGray;
+            resources.ApplyResources(this.panel9, "panel9");
+            this.panel9.Name = "panel9";
+            // 
+            // label81
+            // 
+            resources.ApplyResources(this.label81, "label81");
+            this.label81.Name = "label81";
+            // 
+            // zipVcheckBox
+            // 
+            resources.ApplyResources(this.zipVcheckBox, "zipVcheckBox");
+            this.zipVcheckBox.Name = "zipVcheckBox";
+            this.zipVcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // zipFcheckBox
+            // 
+            resources.ApplyResources(this.zipFcheckBox, "zipFcheckBox");
+            this.zipFcheckBox.Name = "zipFcheckBox";
+            this.zipFcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // zipZcheckBox
+            // 
+            resources.ApplyResources(this.zipZcheckBox, "zipZcheckBox");
+            this.zipZcheckBox.Name = "zipZcheckBox";
+            this.zipZcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // zipPcheckBox
+            // 
+            resources.ApplyResources(this.zipPcheckBox, "zipPcheckBox");
+            this.zipPcheckBox.Checked = true;
+            this.zipPcheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.zipPcheckBox.Name = "zipPcheckBox";
+            this.zipPcheckBox.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = global::APKEasyTool.Properties.Resources.zipalignsmall;
+            resources.ApplyResources(this.pictureBox10, "pictureBox10");
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.TabStop = false;
+            // 
             // tabAbt
             // 
             resources.ApplyResources(this.tabAbt, "tabAbt");
@@ -1326,865 +2163,6 @@
             this.toolStripStatusLabelText.Overflow = System.Windows.Forms.ToolStripItemOverflow.Never;
             this.toolStripStatusLabelText.Spring = true;
             // 
-            // tabPage6
-            // 
-            this.tabPage6.Controls.Add(this.zipAfterSignChkBox);
-            this.tabPage6.Controls.Add(this.panel9);
-            this.tabPage6.Controls.Add(this.label81);
-            this.tabPage6.Controls.Add(this.zipVcheckBox);
-            this.tabPage6.Controls.Add(this.zipFcheckBox);
-            this.tabPage6.Controls.Add(this.zipZcheckBox);
-            this.tabPage6.Controls.Add(this.zipPcheckBox);
-            this.tabPage6.Controls.Add(this.pictureBox10);
-            resources.ApplyResources(this.tabPage6, "tabPage6");
-            this.tabPage6.Name = "tabPage6";
-            this.tabPage6.UseVisualStyleBackColor = true;
-            // 
-            // pictureBox10
-            // 
-            this.pictureBox10.Image = global::APKEasyTool.Properties.Resources.zipalignsmall;
-            resources.ApplyResources(this.pictureBox10, "pictureBox10");
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.TabStop = false;
-            // 
-            // zipPcheckBox
-            // 
-            resources.ApplyResources(this.zipPcheckBox, "zipPcheckBox");
-            this.zipPcheckBox.Checked = true;
-            this.zipPcheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.zipPcheckBox.Name = "zipPcheckBox";
-            this.zipPcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // zipZcheckBox
-            // 
-            resources.ApplyResources(this.zipZcheckBox, "zipZcheckBox");
-            this.zipZcheckBox.Name = "zipZcheckBox";
-            this.zipZcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // zipFcheckBox
-            // 
-            resources.ApplyResources(this.zipFcheckBox, "zipFcheckBox");
-            this.zipFcheckBox.Name = "zipFcheckBox";
-            this.zipFcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // zipVcheckBox
-            // 
-            resources.ApplyResources(this.zipVcheckBox, "zipVcheckBox");
-            this.zipVcheckBox.Name = "zipVcheckBox";
-            this.zipVcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // label81
-            // 
-            resources.ApplyResources(this.label81, "label81");
-            this.label81.Name = "label81";
-            // 
-            // panel9
-            // 
-            this.panel9.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel9, "panel9");
-            this.panel9.Name = "panel9";
-            // 
-            // zipAfterSignChkBox
-            // 
-            resources.ApplyResources(this.zipAfterSignChkBox, "zipAfterSignChkBox");
-            this.zipAfterSignChkBox.Checked = true;
-            this.zipAfterSignChkBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.zipAfterSignChkBox.Name = "zipAfterSignChkBox";
-            this.zipAfterSignChkBox.UseVisualStyleBackColor = true;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.label30);
-            this.tabPage5.Controls.Add(this.v3signComboBox);
-            this.tabPage5.Controls.Add(this.v4signComboBox);
-            this.tabPage5.Controls.Add(this.v2signComboBox);
-            this.tabPage5.Controls.Add(this.v4SignLbl);
-            this.tabPage5.Controls.Add(this.v3SignLbl);
-            this.tabPage5.Controls.Add(this.v2SignLbl);
-            this.tabPage5.Controls.Add(this.overApkChecked);
-            this.tabPage5.Controls.Add(this.installApkChkBox);
-            this.tabPage5.Controls.Add(this.signApkCheckBox);
-            this.tabPage5.Controls.Add(this.label80);
-            this.tabPage5.Controls.Add(this.panel8);
-            this.tabPage5.Controls.Add(this.jksPass);
-            this.tabPage5.Controls.Add(this.jksFileTxtBox);
-            this.tabPage5.Controls.Add(this.pemFileTxtBox);
-            this.tabPage5.Controls.Add(this.pk8FileTxtBox);
-            this.tabPage5.Controls.Add(this.label73);
-            this.tabPage5.Controls.Add(this.label72);
-            this.tabPage5.Controls.Add(this.selJksTxtBox);
-            this.tabPage5.Controls.Add(this.label57);
-            this.tabPage5.Controls.Add(this.useJksCheckBox);
-            this.tabPage5.Controls.Add(this.label56);
-            this.tabPage5.Controls.Add(this.label10);
-            this.tabPage5.Controls.Add(this.selPemTxtBox);
-            this.tabPage5.Controls.Add(this.selPk8TxtBox);
-            this.tabPage5.Controls.Add(this.pictureBox9);
-            resources.ApplyResources(this.tabPage5, "tabPage5");
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // pictureBox9
-            // 
-            resources.ApplyResources(this.pictureBox9, "pictureBox9");
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.TabStop = false;
-            // 
-            // selPk8TxtBox
-            // 
-            resources.ApplyResources(this.selPk8TxtBox, "selPk8TxtBox");
-            this.selPk8TxtBox.Name = "selPk8TxtBox";
-            this.selPk8TxtBox.UseVisualStyleBackColor = true;
-            // 
-            // selPemTxtBox
-            // 
-            resources.ApplyResources(this.selPemTxtBox, "selPemTxtBox");
-            this.selPemTxtBox.Name = "selPemTxtBox";
-            this.selPemTxtBox.UseVisualStyleBackColor = true;
-            // 
-            // pk8FileTxtBox
-            // 
-            resources.ApplyResources(this.pk8FileTxtBox, "pk8FileTxtBox");
-            this.pk8FileTxtBox.Name = "pk8FileTxtBox";
-            // 
-            // pemFileTxtBox
-            // 
-            resources.ApplyResources(this.pemFileTxtBox, "pemFileTxtBox");
-            this.pemFileTxtBox.Name = "pemFileTxtBox";
-            // 
-            // label10
-            // 
-            resources.ApplyResources(this.label10, "label10");
-            this.label10.Name = "label10";
-            // 
-            // label56
-            // 
-            resources.ApplyResources(this.label56, "label56");
-            this.label56.Name = "label56";
-            // 
-            // useJksCheckBox
-            // 
-            resources.ApplyResources(this.useJksCheckBox, "useJksCheckBox");
-            this.useJksCheckBox.Name = "useJksCheckBox";
-            this.useJksCheckBox.UseVisualStyleBackColor = true;
-            // 
-            // label57
-            // 
-            resources.ApplyResources(this.label57, "label57");
-            this.label57.Name = "label57";
-            // 
-            // jksFileTxtBox
-            // 
-            resources.ApplyResources(this.jksFileTxtBox, "jksFileTxtBox");
-            this.jksFileTxtBox.Name = "jksFileTxtBox";
-            // 
-            // selJksTxtBox
-            // 
-            resources.ApplyResources(this.selJksTxtBox, "selJksTxtBox");
-            this.selJksTxtBox.Name = "selJksTxtBox";
-            this.selJksTxtBox.UseVisualStyleBackColor = true;
-            // 
-            // label72
-            // 
-            resources.ApplyResources(this.label72, "label72");
-            this.label72.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label72.Name = "label72";
-            // 
-            // label73
-            // 
-            resources.ApplyResources(this.label73, "label73");
-            this.label73.Name = "label73";
-            // 
-            // jksPass
-            // 
-            resources.ApplyResources(this.jksPass, "jksPass");
-            this.jksPass.Name = "jksPass";
-            // 
-            // label80
-            // 
-            resources.ApplyResources(this.label80, "label80");
-            this.label80.Name = "label80";
-            // 
-            // panel8
-            // 
-            this.panel8.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel8, "panel8");
-            this.panel8.Name = "panel8";
-            // 
-            // signApkCheckBox
-            // 
-            resources.ApplyResources(this.signApkCheckBox, "signApkCheckBox");
-            this.signApkCheckBox.Checked = true;
-            this.signApkCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.signApkCheckBox.Name = "signApkCheckBox";
-            // 
-            // installApkChkBox
-            // 
-            resources.ApplyResources(this.installApkChkBox, "installApkChkBox");
-            this.installApkChkBox.Name = "installApkChkBox";
-            this.installApkChkBox.UseVisualStyleBackColor = true;
-            // 
-            // overApkChecked
-            // 
-            resources.ApplyResources(this.overApkChecked, "overApkChecked");
-            this.overApkChecked.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.overApkChecked.Name = "overApkChecked";
-            this.overApkChecked.UseVisualStyleBackColor = true;
-            // 
-            // v2SignLbl
-            // 
-            resources.ApplyResources(this.v2SignLbl, "v2SignLbl");
-            this.v2SignLbl.Name = "v2SignLbl";
-            // 
-            // v3SignLbl
-            // 
-            resources.ApplyResources(this.v3SignLbl, "v3SignLbl");
-            this.v3SignLbl.Name = "v3SignLbl";
-            // 
-            // v4SignLbl
-            // 
-            resources.ApplyResources(this.v4SignLbl, "v4SignLbl");
-            this.v4SignLbl.Name = "v4SignLbl";
-            // 
-            // v2signComboBox
-            // 
-            this.v2signComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.v2signComboBox.FormattingEnabled = true;
-            this.v2signComboBox.Items.AddRange(new object[] {
-            resources.GetString("v2signComboBox.Items"),
-            resources.GetString("v2signComboBox.Items1"),
-            resources.GetString("v2signComboBox.Items2")});
-            resources.ApplyResources(this.v2signComboBox, "v2signComboBox");
-            this.v2signComboBox.Name = "v2signComboBox";
-            // 
-            // v4signComboBox
-            // 
-            this.v4signComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.v4signComboBox.FormattingEnabled = true;
-            this.v4signComboBox.Items.AddRange(new object[] {
-            resources.GetString("v4signComboBox.Items"),
-            resources.GetString("v4signComboBox.Items1"),
-            resources.GetString("v4signComboBox.Items2"),
-            resources.GetString("v4signComboBox.Items3")});
-            resources.ApplyResources(this.v4signComboBox, "v4signComboBox");
-            this.v4signComboBox.Name = "v4signComboBox";
-            // 
-            // v3signComboBox
-            // 
-            this.v3signComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.v3signComboBox.FormattingEnabled = true;
-            this.v3signComboBox.Items.AddRange(new object[] {
-            resources.GetString("v3signComboBox.Items"),
-            resources.GetString("v3signComboBox.Items1"),
-            resources.GetString("v3signComboBox.Items2")});
-            resources.ApplyResources(this.v3signComboBox, "v3signComboBox");
-            this.v3signComboBox.Name = "v3signComboBox";
-            // 
-            // label30
-            // 
-            resources.ApplyResources(this.label30, "label30");
-            this.label30.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label30.Name = "label30";
-            // 
-            // tabPage3
-            // 
-            this.tabPage3.BackColor = System.Drawing.Color.White;
-            this.tabPage3.Controls.Add(this.decForceManifestChkBox);
-            this.tabPage3.Controls.Add(this.setAaptPathBtn);
-            this.tabPage3.Controls.Add(this.useAaptPathTxtBox);
-            this.tabPage3.Controls.Add(this.useAaptPathChkBox);
-            this.tabPage3.Controls.Add(this.decOnlyMainClassesChkBox);
-            this.tabPage3.Controls.Add(this.decNoAssetsCheckBox);
-            this.tabPage3.Controls.Add(this.comNCcheckBox);
-            this.tabPage3.Controls.Add(this.chkBoxUseAapt2);
-            this.tabPage3.Controls.Add(this.decFcheckBox);
-            this.tabPage3.Controls.Add(this.comFcheckBox);
-            this.tabPage3.Controls.Add(this.comCcheckBox);
-            this.tabPage3.Controls.Add(this.panel7);
-            this.tabPage3.Controls.Add(this.panel6);
-            this.tabPage3.Controls.Add(this.label76);
-            this.tabPage3.Controls.Add(this.label63);
-            this.tabPage3.Controls.Add(this.comDcheckBox);
-            this.tabPage3.Controls.Add(this.decScheckBox);
-            this.tabPage3.Controls.Add(this.decBcheckBox);
-            this.tabPage3.Controls.Add(this.decRcheckBox);
-            this.tabPage3.Controls.Add(this.decKcheckBox);
-            this.tabPage3.Controls.Add(this.decMcheckBox);
-            this.tabPage3.Controls.Add(this.pictureBox5);
-            this.tabPage3.Controls.Add(this.pictureBox4);
-            resources.ApplyResources(this.tabPage3, "tabPage3");
-            this.tabPage3.Name = "tabPage3";
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::APKEasyTool.Properties.Resources.decsmall;
-            resources.ApplyResources(this.pictureBox4, "pictureBox4");
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::APKEasyTool.Properties.Resources.comsmall;
-            resources.ApplyResources(this.pictureBox5, "pictureBox5");
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.TabStop = false;
-            // 
-            // decMcheckBox
-            // 
-            resources.ApplyResources(this.decMcheckBox, "decMcheckBox");
-            this.decMcheckBox.Name = "decMcheckBox";
-            this.toolTip1.SetToolTip(this.decMcheckBox, resources.GetString("decMcheckBox.ToolTip"));
-            this.decMcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decKcheckBox
-            // 
-            resources.ApplyResources(this.decKcheckBox, "decKcheckBox");
-            this.decKcheckBox.Name = "decKcheckBox";
-            this.toolTip1.SetToolTip(this.decKcheckBox, resources.GetString("decKcheckBox.ToolTip"));
-            this.decKcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decRcheckBox
-            // 
-            resources.ApplyResources(this.decRcheckBox, "decRcheckBox");
-            this.decRcheckBox.Name = "decRcheckBox";
-            this.toolTip1.SetToolTip(this.decRcheckBox, resources.GetString("decRcheckBox.ToolTip"));
-            this.decRcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decBcheckBox
-            // 
-            resources.ApplyResources(this.decBcheckBox, "decBcheckBox");
-            this.decBcheckBox.Name = "decBcheckBox";
-            this.toolTip1.SetToolTip(this.decBcheckBox, resources.GetString("decBcheckBox.ToolTip"));
-            this.decBcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decScheckBox
-            // 
-            resources.ApplyResources(this.decScheckBox, "decScheckBox");
-            this.decScheckBox.Name = "decScheckBox";
-            this.toolTip1.SetToolTip(this.decScheckBox, resources.GetString("decScheckBox.ToolTip"));
-            this.decScheckBox.UseVisualStyleBackColor = true;
-            // 
-            // comDcheckBox
-            // 
-            resources.ApplyResources(this.comDcheckBox, "comDcheckBox");
-            this.comDcheckBox.Name = "comDcheckBox";
-            this.toolTip1.SetToolTip(this.comDcheckBox, resources.GetString("comDcheckBox.ToolTip"));
-            this.comDcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // label63
-            // 
-            resources.ApplyResources(this.label63, "label63");
-            this.label63.Name = "label63";
-            // 
-            // label76
-            // 
-            resources.ApplyResources(this.label76, "label76");
-            this.label76.Name = "label76";
-            // 
-            // panel6
-            // 
-            this.panel6.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel6, "panel6");
-            this.panel6.Name = "panel6";
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel7, "panel7");
-            this.panel7.Name = "panel7";
-            // 
-            // comCcheckBox
-            // 
-            resources.ApplyResources(this.comCcheckBox, "comCcheckBox");
-            this.comCcheckBox.Name = "comCcheckBox";
-            this.toolTip1.SetToolTip(this.comCcheckBox, resources.GetString("comCcheckBox.ToolTip"));
-            this.comCcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // comFcheckBox
-            // 
-            resources.ApplyResources(this.comFcheckBox, "comFcheckBox");
-            this.comFcheckBox.Checked = true;
-            this.comFcheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.comFcheckBox.Name = "comFcheckBox";
-            this.toolTip1.SetToolTip(this.comFcheckBox, resources.GetString("comFcheckBox.ToolTip"));
-            this.comFcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decFcheckBox
-            // 
-            resources.ApplyResources(this.decFcheckBox, "decFcheckBox");
-            this.decFcheckBox.Checked = true;
-            this.decFcheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.decFcheckBox.Name = "decFcheckBox";
-            this.toolTip1.SetToolTip(this.decFcheckBox, resources.GetString("decFcheckBox.ToolTip"));
-            this.decFcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // chkBoxUseAapt2
-            // 
-            resources.ApplyResources(this.chkBoxUseAapt2, "chkBoxUseAapt2");
-            this.chkBoxUseAapt2.Checked = true;
-            this.chkBoxUseAapt2.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.chkBoxUseAapt2.Name = "chkBoxUseAapt2";
-            this.toolTip1.SetToolTip(this.chkBoxUseAapt2, resources.GetString("chkBoxUseAapt2.ToolTip"));
-            this.chkBoxUseAapt2.UseVisualStyleBackColor = true;
-            // 
-            // comNCcheckBox
-            // 
-            resources.ApplyResources(this.comNCcheckBox, "comNCcheckBox");
-            this.comNCcheckBox.Name = "comNCcheckBox";
-            this.toolTip1.SetToolTip(this.comNCcheckBox, resources.GetString("comNCcheckBox.ToolTip"));
-            this.comNCcheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decNoAssetsCheckBox
-            // 
-            resources.ApplyResources(this.decNoAssetsCheckBox, "decNoAssetsCheckBox");
-            this.decNoAssetsCheckBox.Name = "decNoAssetsCheckBox";
-            this.decNoAssetsCheckBox.UseVisualStyleBackColor = true;
-            // 
-            // decOnlyMainClassesChkBox
-            // 
-            resources.ApplyResources(this.decOnlyMainClassesChkBox, "decOnlyMainClassesChkBox");
-            this.decOnlyMainClassesChkBox.Checked = true;
-            this.decOnlyMainClassesChkBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.decOnlyMainClassesChkBox.Name = "decOnlyMainClassesChkBox";
-            this.decOnlyMainClassesChkBox.UseVisualStyleBackColor = true;
-            // 
-            // useAaptPathChkBox
-            // 
-            resources.ApplyResources(this.useAaptPathChkBox, "useAaptPathChkBox");
-            this.useAaptPathChkBox.Name = "useAaptPathChkBox";
-            this.useAaptPathChkBox.UseVisualStyleBackColor = true;
-            // 
-            // useAaptPathTxtBox
-            // 
-            resources.ApplyResources(this.useAaptPathTxtBox, "useAaptPathTxtBox");
-            this.useAaptPathTxtBox.Name = "useAaptPathTxtBox";
-            // 
-            // setAaptPathBtn
-            // 
-            resources.ApplyResources(this.setAaptPathBtn, "setAaptPathBtn");
-            this.setAaptPathBtn.Name = "setAaptPathBtn";
-            this.setAaptPathBtn.UseVisualStyleBackColor = true;
-            // 
-            // decForceManifestChkBox
-            // 
-            resources.ApplyResources(this.decForceManifestChkBox, "decForceManifestChkBox");
-            this.decForceManifestChkBox.Name = "decForceManifestChkBox";
-            this.toolTip1.SetToolTip(this.decForceManifestChkBox, resources.GetString("decForceManifestChkBox.ToolTip"));
-            this.decForceManifestChkBox.UseVisualStyleBackColor = true;
-            // 
-            // tabPage2
-            // 
-            resources.ApplyResources(this.tabPage2, "tabPage2");
-            this.tabPage2.Controls.Add(this.changeAutoDir);
-            this.tabPage2.Controls.Add(this.pathOfAuto);
-            this.tabPage2.Controls.Add(this.extJavaTxtBox);
-            this.tabPage2.Controls.Add(this.pathOfZip);
-            this.tabPage2.Controls.Add(this.pathOfExt);
-            this.tabPage2.Controls.Add(this.pathOfCom);
-            this.tabPage2.Controls.Add(this.pathOfDec);
-            this.tabPage2.Controls.Add(this.label19);
-            this.tabPage2.Controls.Add(this.tmpFolBtn);
-            this.tabPage2.Controls.Add(this.useJaxaXmxChkBox);
-            this.tabPage2.Controls.Add(this.uninsBtn);
-            this.tabPage2.Controls.Add(this.insBtn);
-            this.tabPage2.Controls.Add(this.label6);
-            this.tabPage2.Controls.Add(this.button1);
-            this.tabPage2.Controls.Add(this.taskBarCheckBox);
-            this.tabPage2.Controls.Add(this.label12);
-            this.tabPage2.Controls.Add(this.langComboBox);
-            this.tabPage2.Controls.Add(this.label2);
-            this.tabPage2.Controls.Add(this.label103);
-            this.tabPage2.Controls.Add(this.pictureBox2);
-            this.tabPage2.Controls.Add(this.resBtn);
-            this.tabPage2.Controls.Add(this.panel5);
-            this.tabPage2.Controls.Add(this.label37);
-            this.tabPage2.Controls.Add(this.useExtJava);
-            this.tabPage2.Controls.Add(this.selJavaBtn);
-            this.tabPage2.Controls.Add(this.clrHisBtn);
-            this.tabPage2.Controls.Add(this.disHisBox);
-            this.tabPage2.Controls.Add(this.downBtn);
-            this.tabPage2.Controls.Add(this.setupDirBtn);
-            this.tabPage2.Controls.Add(this.restartBtn);
-            this.tabPage2.Controls.Add(this.panel4);
-            this.tabPage2.Controls.Add(this.panel3);
-            this.tabPage2.Controls.Add(this.pictureBox7);
-            this.tabPage2.Controls.Add(this.pictureBox6);
-            this.tabPage2.Controls.Add(this.label78);
-            this.tabPage2.Controls.Add(this.label77);
-            this.tabPage2.Controls.Add(this.changeZipDir);
-            this.tabPage2.Controls.Add(this.label60);
-            this.tabPage2.Controls.Add(this.changeExtDir);
-            this.tabPage2.Controls.Add(this.folderBtn);
-            this.tabPage2.Controls.Add(this.label49);
-            this.tabPage2.Controls.Add(this.label40);
-            this.tabPage2.Controls.Add(this.label1);
-            this.tabPage2.Controls.Add(this.winPosCheckBox);
-            this.tabPage2.Controls.Add(this.apkToolComboBox);
-            this.tabPage2.Controls.Add(this.changeComDir);
-            this.tabPage2.Controls.Add(this.sevenzComUpDown);
-            this.tabPage2.Controls.Add(this.changeDecDir);
-            this.tabPage2.Controls.Add(this.label21);
-            this.tabPage2.Controls.Add(this.label3);
-            this.tabPage2.Controls.Add(this.label62);
-            this.tabPage2.Controls.Add(this.javaHeapSizeNum);
-            this.tabPage2.Controls.Add(this.chkUpdateChkBox);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // chkUpdateChkBox
-            // 
-            resources.ApplyResources(this.chkUpdateChkBox, "chkUpdateChkBox");
-            this.chkUpdateChkBox.Name = "chkUpdateChkBox";
-            this.chkUpdateChkBox.UseVisualStyleBackColor = true;
-            // 
-            // javaHeapSizeNum
-            // 
-            resources.ApplyResources(this.javaHeapSizeNum, "javaHeapSizeNum");
-            this.javaHeapSizeNum.Maximum = new decimal(new int[] {
-            999999,
-            0,
-            0,
-            0});
-            this.javaHeapSizeNum.Minimum = new decimal(new int[] {
-            64,
-            0,
-            0,
-            0});
-            this.javaHeapSizeNum.Name = "javaHeapSizeNum";
-            this.toolTip1.SetToolTip(this.javaHeapSizeNum, resources.GetString("javaHeapSizeNum.ToolTip"));
-            this.javaHeapSizeNum.Value = new decimal(new int[] {
-            1024,
-            0,
-            0,
-            0});
-            // 
-            // label62
-            // 
-            resources.ApplyResources(this.label62, "label62");
-            this.label62.Name = "label62";
-            // 
-            // label3
-            // 
-            resources.ApplyResources(this.label3, "label3");
-            this.label3.Name = "label3";
-            // 
-            // label21
-            // 
-            resources.ApplyResources(this.label21, "label21");
-            this.label21.Name = "label21";
-            // 
-            // changeDecDir
-            // 
-            resources.ApplyResources(this.changeDecDir, "changeDecDir");
-            this.changeDecDir.Name = "changeDecDir";
-            this.changeDecDir.UseVisualStyleBackColor = true;
-            // 
-            // sevenzComUpDown
-            // 
-            resources.ApplyResources(this.sevenzComUpDown, "sevenzComUpDown");
-            this.sevenzComUpDown.Maximum = new decimal(new int[] {
-            9,
-            0,
-            0,
-            0});
-            this.sevenzComUpDown.Name = "sevenzComUpDown";
-            this.sevenzComUpDown.Value = new decimal(new int[] {
-            9,
-            0,
-            0,
-            0});
-            // 
-            // changeComDir
-            // 
-            resources.ApplyResources(this.changeComDir, "changeComDir");
-            this.changeComDir.Name = "changeComDir";
-            this.changeComDir.UseVisualStyleBackColor = true;
-            // 
-            // apkToolComboBox
-            // 
-            this.apkToolComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.apkToolComboBox.DropDownWidth = 200;
-            this.apkToolComboBox.FormattingEnabled = true;
-            resources.ApplyResources(this.apkToolComboBox, "apkToolComboBox");
-            this.apkToolComboBox.Name = "apkToolComboBox";
-            this.toolTip1.SetToolTip(this.apkToolComboBox, resources.GetString("apkToolComboBox.ToolTip"));
-            this.apkToolComboBox.SelectedValueChanged += new System.EventHandler(this.apkToolComboBox_SelectedValueChanged_1);
-            // 
-            // pathOfDec
-            // 
-            resources.ApplyResources(this.pathOfDec, "pathOfDec");
-            this.pathOfDec.Name = "pathOfDec";
-            // 
-            // winPosCheckBox
-            // 
-            resources.ApplyResources(this.winPosCheckBox, "winPosCheckBox");
-            this.winPosCheckBox.Name = "winPosCheckBox";
-            this.toolTip1.SetToolTip(this.winPosCheckBox, resources.GetString("winPosCheckBox.ToolTip"));
-            this.winPosCheckBox.UseVisualStyleBackColor = true;
-            // 
-            // pathOfCom
-            // 
-            resources.ApplyResources(this.pathOfCom, "pathOfCom");
-            this.pathOfCom.Name = "pathOfCom";
-            // 
-            // label1
-            // 
-            resources.ApplyResources(this.label1, "label1");
-            this.label1.Name = "label1";
-            // 
-            // label40
-            // 
-            resources.ApplyResources(this.label40, "label40");
-            this.label40.ForeColor = System.Drawing.Color.Gray;
-            this.label40.Name = "label40";
-            // 
-            // label49
-            // 
-            resources.ApplyResources(this.label49, "label49");
-            this.label49.Name = "label49";
-            // 
-            // folderBtn
-            // 
-            this.folderBtn.BackColor = System.Drawing.Color.Gainsboro;
-            this.folderBtn.BackgroundImage = global::APKEasyTool.Properties.Resources.imageres_3;
-            resources.ApplyResources(this.folderBtn, "folderBtn");
-            this.folderBtn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.folderBtn.Name = "folderBtn";
-            // 
-            // pathOfExt
-            // 
-            resources.ApplyResources(this.pathOfExt, "pathOfExt");
-            this.pathOfExt.Name = "pathOfExt";
-            // 
-            // changeExtDir
-            // 
-            resources.ApplyResources(this.changeExtDir, "changeExtDir");
-            this.changeExtDir.Name = "changeExtDir";
-            this.changeExtDir.UseVisualStyleBackColor = true;
-            // 
-            // label60
-            // 
-            resources.ApplyResources(this.label60, "label60");
-            this.label60.Name = "label60";
-            // 
-            // pathOfZip
-            // 
-            resources.ApplyResources(this.pathOfZip, "pathOfZip");
-            this.pathOfZip.Name = "pathOfZip";
-            // 
-            // changeZipDir
-            // 
-            resources.ApplyResources(this.changeZipDir, "changeZipDir");
-            this.changeZipDir.Name = "changeZipDir";
-            this.changeZipDir.UseVisualStyleBackColor = true;
-            // 
-            // label77
-            // 
-            resources.ApplyResources(this.label77, "label77");
-            this.label77.Name = "label77";
-            // 
-            // label78
-            // 
-            resources.ApplyResources(this.label78, "label78");
-            this.label78.Name = "label78";
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = global::APKEasyTool.Properties.Resources.aeticon;
-            resources.ApplyResources(this.pictureBox6, "pictureBox6");
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Image = global::APKEasyTool.Properties.Resources.imageres_3;
-            resources.ApplyResources(this.pictureBox7, "pictureBox7");
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.TabStop = false;
-            // 
-            // panel3
-            // 
-            this.panel3.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel3, "panel3");
-            this.panel3.Name = "panel3";
-            // 
-            // panel4
-            // 
-            this.panel4.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel4, "panel4");
-            this.panel4.Name = "panel4";
-            // 
-            // restartBtn
-            // 
-            resources.ApplyResources(this.restartBtn, "restartBtn");
-            this.restartBtn.Name = "restartBtn";
-            this.restartBtn.UseVisualStyleBackColor = true;
-            // 
-            // setupDirBtn
-            // 
-            resources.ApplyResources(this.setupDirBtn, "setupDirBtn");
-            this.setupDirBtn.Name = "setupDirBtn";
-            this.setupDirBtn.UseVisualStyleBackColor = true;
-            // 
-            // downBtn
-            // 
-            this.downBtn.BackColor = System.Drawing.Color.Gainsboro;
-            this.downBtn.BackgroundImage = global::APKEasyTool.Properties.Resources.arrow_down_2_50;
-            resources.ApplyResources(this.downBtn, "downBtn");
-            this.downBtn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.downBtn.Name = "downBtn";
-            // 
-            // disHisBox
-            // 
-            resources.ApplyResources(this.disHisBox, "disHisBox");
-            this.disHisBox.Name = "disHisBox";
-            this.disHisBox.UseVisualStyleBackColor = true;
-            // 
-            // clrHisBtn
-            // 
-            resources.ApplyResources(this.clrHisBtn, "clrHisBtn");
-            this.clrHisBtn.Name = "clrHisBtn";
-            this.clrHisBtn.UseVisualStyleBackColor = true;
-            this.clrHisBtn.Click += new System.EventHandler(this.clrHisBtn_Click);
-            // 
-            // selJavaBtn
-            // 
-            resources.ApplyResources(this.selJavaBtn, "selJavaBtn");
-            this.selJavaBtn.Name = "selJavaBtn";
-            this.selJavaBtn.UseVisualStyleBackColor = true;
-            // 
-            // extJavaTxtBox
-            // 
-            resources.ApplyResources(this.extJavaTxtBox, "extJavaTxtBox");
-            this.extJavaTxtBox.Name = "extJavaTxtBox";
-            // 
-            // useExtJava
-            // 
-            resources.ApplyResources(this.useExtJava, "useExtJava");
-            this.useExtJava.Name = "useExtJava";
-            this.useExtJava.UseVisualStyleBackColor = true;
-            // 
-            // label37
-            // 
-            resources.ApplyResources(this.label37, "label37");
-            this.label37.Name = "label37";
-            // 
-            // panel5
-            // 
-            this.panel5.BackColor = System.Drawing.Color.DarkGray;
-            resources.ApplyResources(this.panel5, "panel5");
-            this.panel5.Name = "panel5";
-            // 
-            // resBtn
-            // 
-            resources.ApplyResources(this.resBtn, "resBtn");
-            this.resBtn.Name = "resBtn";
-            this.resBtn.UseVisualStyleBackColor = true;
-            this.resBtn.Click += new System.EventHandler(this.resBtn_Click);
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::APKEasyTool.Properties.Resources.settings_grey_192x192;
-            resources.ApplyResources(this.pictureBox2, "pictureBox2");
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.TabStop = false;
-            // 
-            // label103
-            // 
-            resources.ApplyResources(this.label103, "label103");
-            this.label103.Name = "label103";
-            // 
-            // label2
-            // 
-            resources.ApplyResources(this.label2, "label2");
-            this.label2.Name = "label2";
-            // 
-            // langComboBox
-            // 
-            this.langComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.langComboBox.DropDownWidth = 200;
-            this.langComboBox.FormattingEnabled = true;
-            this.langComboBox.Items.AddRange(new object[] {
-            resources.GetString("langComboBox.Items")});
-            resources.ApplyResources(this.langComboBox, "langComboBox");
-            this.langComboBox.Name = "langComboBox";
-            this.langComboBox.SelectedValueChanged += new System.EventHandler(this.langComboBox_SelectedValueChanged);
-            // 
-            // label12
-            // 
-            resources.ApplyResources(this.label12, "label12");
-            this.label12.Name = "label12";
-            // 
-            // taskBarCheckBox
-            // 
-            resources.ApplyResources(this.taskBarCheckBox, "taskBarCheckBox");
-            this.taskBarCheckBox.Checked = true;
-            this.taskBarCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.taskBarCheckBox.Name = "taskBarCheckBox";
-            this.taskBarCheckBox.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            resources.ApplyResources(this.button1, "button1");
-            this.button1.Name = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // label6
-            // 
-            resources.ApplyResources(this.label6, "label6");
-            this.label6.Name = "label6";
-            // 
-            // insBtn
-            // 
-            resources.ApplyResources(this.insBtn, "insBtn");
-            this.insBtn.Name = "insBtn";
-            this.insBtn.UseVisualStyleBackColor = true;
-            // 
-            // uninsBtn
-            // 
-            resources.ApplyResources(this.uninsBtn, "uninsBtn");
-            this.uninsBtn.Name = "uninsBtn";
-            this.uninsBtn.UseVisualStyleBackColor = true;
-            // 
-            // useJaxaXmxChkBox
-            // 
-            resources.ApplyResources(this.useJaxaXmxChkBox, "useJaxaXmxChkBox");
-            this.useJaxaXmxChkBox.Name = "useJaxaXmxChkBox";
-            this.useJaxaXmxChkBox.UseVisualStyleBackColor = true;
-            // 
-            // tmpFolBtn
-            // 
-            resources.ApplyResources(this.tmpFolBtn, "tmpFolBtn");
-            this.tmpFolBtn.Name = "tmpFolBtn";
-            this.tmpFolBtn.UseVisualStyleBackColor = true;
-            // 
-            // label19
-            // 
-            resources.ApplyResources(this.label19, "label19");
-            this.label19.Name = "label19";
-            // 
-            // pathOfAuto
-            // 
-            resources.ApplyResources(this.pathOfAuto, "pathOfAuto");
-            this.pathOfAuto.Name = "pathOfAuto";
-            // 
-            // changeAutoDir
-            // 
-            resources.ApplyResources(this.changeAutoDir, "changeAutoDir");
-            this.changeAutoDir.Name = "changeAutoDir";
-            this.changeAutoDir.UseVisualStyleBackColor = true;
-            // 
-            // oTab
-            // 
-            this.oTab.Controls.Add(this.tabPage2);
-            this.oTab.Controls.Add(this.tabPage3);
-            this.oTab.Controls.Add(this.tabPage5);
-            this.oTab.Controls.Add(this.tabPage6);
-            resources.ApplyResources(this.oTab, "oTab");
-            this.oTab.Name = "oTab";
-            this.oTab.SelectedIndex = 0;
-            this.oTab.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
-            // 
             // MainForm
             // 
             resources.ApplyResources(this, "$this");
@@ -2223,6 +2201,24 @@
             this.tabFw.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
             this.tabOpt.ResumeLayout(false);
+            this.oTab.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sevenzComUpDown)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.javaHeapSizeNum)).EndInit();
+            this.tabPage3.ResumeLayout(false);
+            this.tabPage3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            this.tabPage5.ResumeLayout(false);
+            this.tabPage5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            this.tabPage6.ResumeLayout(false);
+            this.tabPage6.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             this.tabAbt.ResumeLayout(false);
             this.tabAbt.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.softpediaPicBox)).EndInit();
@@ -2232,24 +2228,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
-            this.tabPage6.ResumeLayout(false);
-            this.tabPage6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            this.tabPage5.ResumeLayout(false);
-            this.tabPage5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            this.tabPage3.ResumeLayout(false);
-            this.tabPage3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            this.tabPage2.ResumeLayout(false);
-            this.tabPage2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.javaHeapSizeNum)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.sevenzComUpDown)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            this.oTab.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -2397,14 +2375,11 @@
         internal System.Windows.Forms.CheckBox compileOnlyCheckBox;
         internal System.Windows.Forms.TabControl oTab;
         internal System.Windows.Forms.TabPage tabPage2;
-        internal System.Windows.Forms.Button changeAutoDir;
-        internal System.Windows.Forms.TextBox pathOfAuto;
         internal System.Windows.Forms.TextBox extJavaTxtBox;
         internal System.Windows.Forms.TextBox pathOfZip;
         internal System.Windows.Forms.TextBox pathOfExt;
         internal System.Windows.Forms.TextBox pathOfCom;
         internal System.Windows.Forms.TextBox pathOfDec;
-        internal System.Windows.Forms.Label label19;
         internal System.Windows.Forms.Button tmpFolBtn;
         internal System.Windows.Forms.CheckBox useJaxaXmxChkBox;
         internal System.Windows.Forms.Button uninsBtn;

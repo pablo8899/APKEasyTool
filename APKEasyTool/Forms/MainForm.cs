@@ -224,7 +224,6 @@ namespace APKEasyTool
             changeComDir.Click += new EventHandler((sender, e) => DirectoryUtils.selFolder(Lang.SEL_COM_DIR_DIAG, file => pathOfCom.Text = file));
             changeExtDir.Click += new EventHandler((sender, e) => DirectoryUtils.selFolder(Lang.SEL_EXT_DIR_DIAG, file => pathOfExt.Text = file));
             changeZipDir.Click += new EventHandler((sender, e) => DirectoryUtils.selFolder(Lang.SEL_ZIP_DIR_DIAG, file => pathOfZip.Text = file));
-            changeAutoDir.Click += new EventHandler((sender, e) => DirectoryUtils.selFolder(Lang.SEL_AUTO_DIR_DIAG, file => pathOfAuto.Text = file));
 
             selPk8TxtBox.Click += new EventHandler((sender, e) => DirectoryUtils.selFile(Lang.SEL_PK8_FILE_DIAG, ".pk8 key file (*.pk8)|*.pk8", file => pk8FileTxtBox.Text = file));
             selPemTxtBox.Click += new EventHandler((sender, e) => DirectoryUtils.selFile(Lang.SEL_PEM_FILE_DIAG, ".pem key file (*.pem)|*.pem", file => pemFileTxtBox.Text = file));

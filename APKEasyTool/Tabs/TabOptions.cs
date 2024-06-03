@@ -73,9 +73,6 @@ namespace APKEasyTool
 
                     Directory.CreateDirectory(fbd.SelectedPath + "\\6-Smali");
                     main.smaliDir.Text = (fbd.SelectedPath + "\\6-Smali").Replace(@"\\", @"\");
-
-                    Directory.CreateDirectory(fbd.SelectedPath + "\\AutoPatch Tool");
-                    main.pathOfAuto.Text = (fbd.SelectedPath + "\\AutoPatch Tool").Replace(@"\\", @"\");
                 }
                 catch (Exception ex)
                 {
