@@ -17,7 +17,7 @@ namespace APKEasyTool
             //- Updated aapt, zipalign, apksigner to 32.0.0
 
         
-        private static string EASY_TOOL_UPDATE_URL = "https://evildog1.bitbucket.io/apkeasytool/aet1.txt";
+        private static string EASY_TOOL_UPDATE_URL = "https://raw.githubusercontent.com/pablo8899/APKEasyTool/master/update.txt";
         private static string APK_TOOL_UPDATE_URL = "https://api.bitbucket.org/2.0/repositories/iBotPeaches/apktool/downloads";
 
         public static string EasyToolVersion()
